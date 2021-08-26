@@ -6,7 +6,7 @@ This project tries to solve a multi-class semantic segmentation problem using UN
 The inputs to the model is an RGB image of a cityscape. 
 
 <p align="center">
-    <img width="197" height="371" src="https://github.com/tauseef09/Semantic-Segmentation-using-UNET/blob/master/readme_images/input.jpg">
+    <img width="256" height="256" src="https://github.com/tauseef09/Semantic-Segmentation-using-UNET/blob/master/readme_images/input.jpg">
     <br>
     Model input
 </p>
@@ -15,7 +15,7 @@ The inputs to the model is an RGB image of a cityscape.
 The output is a semtantically segmented mask where different objects are color coded.
 
 <p align="center">
-    <img width="197" height="371" src="https://github.com/tauseef09/Semantic-Segmentation-using-UNET/blob/master/readme_images/output.jpg">
+    <img width="256" height="256" src="https://github.com/tauseef09/Semantic-Segmentation-using-UNET/blob/master/readme_images/output.jpg">
     <br>
     Model output
 </p>
