@@ -1,6 +1,6 @@
 # Semantic-Segmentation-using-UNET
 
-This project tries to solve a multi-class semantic segmentation problem using UNET on the [Cityscape Image Pairs](https://www.kaggle.com/dansbecker/cityscapes-image-pairs) dataset.
+This project tries to solve a multi-class semantic segmentation problem using UNET on the [Cityscape Image Pairs](https://www.kaggle.com/dansbecker/cityscapes-image-pairs) dataset. This project implements a variation of the orignal UNET by adding batch normalisation between layers and using same padding. 
 
 ## Input
 The inputs to the model is an RGB image of a cityscape. 
