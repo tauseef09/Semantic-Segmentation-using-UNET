@@ -21,7 +21,7 @@ The output is a semtantically segmented mask where different objects are color c
 </p>
 
 ## Saved Weights
-A .pth.tar file can be found [here](https://drive.google.com/drive/u/0/folders/1OroW6nzyOo3882BFTUPFQibFUOxO5kUx) containing weights of this model trained for 100 epochs.
+A .pth.tar file can be found [here](https://drive.google.com/drive/u/0/folders/1OroW6nzyOo3882BFTUPFQibFUOxO5kUx) containing weights of this model trained for 110 epochs.
 
 ## Authors
 This was a personal project worked on by: 
